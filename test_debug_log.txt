@@ -4,3 +4,18 @@ warning: Source file is more recent than executable.
 3	    printf("Hellow WOrld");
 4	    return 0
 5	}Undefined set logging command: "enabled off".  Try "help set logging".
+warning: Source file is more recent than executable.
+1	#include<stdio.h>
+2	int main(){
+3	    printf("Hellow WOrld");
+4	    return 0
+5	}Breakpoint 1 at 0x40146e: file c:\Users\gyana\OneDrive\Desktop\plugin test\test.c, line 3.
+Starting program: C:\Users\gyana\OneDrive\Desktop\plugin test/./test.exe 
+[New Thread 23740.0x71c0]
+[New Thread 23740.0x6a28]
+
+Breakpoint 1, main () at c:\Users\gyana\OneDrive\Desktop\plugin test\test.c:3
+3	    printf("Hellow WOrld");
+Continuing.
+[Inferior 1 (process 23740) exited normally]
+The program is not being run.
