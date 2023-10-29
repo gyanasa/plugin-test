@@ -1,2 +1,20 @@
 'gcc' is not recognized as an internal or external command,
 operable program or batch file.
+Compilation started at 10/30/2023, 12:09:00 AM
+Compilation finished at 10/30/2023, 12:09:00 AM
+Compilation started at 10/30/2023, 12:09:12 AM
+Compilation finished at 10/30/2023, 12:09:12 AM
+Compilation started at 10/30/2023, 12:09:38 AM
+Compilation finished at 10/30/2023, 12:09:39 AM
+Compilation started at 10/30/2023, 12:09:57 AM
+c:\Users\gyana\OneDrive\Desktop\plugin test\test.c: In function 'main':
+c:\Users\gyana\OneDrive\Desktop\plugin test\test.c:5:1: error: expected ';' before '}' token
+ }
+ ^
+Compilation finished at 10/30/2023, 12:09:57 AM
+Compilation started at 10/30/2023, 12:10:22 AM
+c:\Users\gyana\OneDrive\Desktop\plugin test\test.c: In function 'main':
+c:\Users\gyana\OneDrive\Desktop\plugin test\test.c:5:1: error: expected ';' before '}' token
+ }
+ ^
+Compilation finished at 10/30/2023, 12:10:22 AM

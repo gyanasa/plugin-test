@@ -1,0 +1,6 @@
+warning: Source file is more recent than executable.
+1	#include<stdio.h>
+2	int main(){
+3	    printf("Hellow WOrld");
+4	    return 0
+5	}Undefined set logging command: "enabled off".  Try "help set logging".
